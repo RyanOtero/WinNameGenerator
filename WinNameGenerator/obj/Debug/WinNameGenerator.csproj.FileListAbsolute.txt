@@ -1,0 +1,13 @@
+C:\Users\ROtero\source\repos\WinNameGenerator\WinNameGenerator\bin\Debug\WinNameGenerator.exe.config
+C:\Users\ROtero\source\repos\WinNameGenerator\WinNameGenerator\bin\Debug\WinNameGenerator.exe
+C:\Users\ROtero\source\repos\WinNameGenerator\WinNameGenerator\bin\Debug\WinNameGenerator.pdb
+C:\Users\ROtero\source\repos\WinNameGenerator\WinNameGenerator\obj\Debug\WinNameGenerator.csprojAssemblyReference.cache
+C:\Users\ROtero\source\repos\WinNameGenerator\WinNameGenerator\obj\Debug\WinNameGenerator.Form1.resources
+C:\Users\ROtero\source\repos\WinNameGenerator\WinNameGenerator\obj\Debug\WinNameGenerator.Properties.Resources.resources
+C:\Users\ROtero\source\repos\WinNameGenerator\WinNameGenerator\obj\Debug\WinNameGenerator.csproj.GenerateResource.cache
+C:\Users\ROtero\source\repos\WinNameGenerator\WinNameGenerator\obj\Debug\WinNameGenerator.exe
+C:\Users\ROtero\source\repos\WinNameGenerator\WinNameGenerator\obj\Debug\WinNameGenerator.pdb
+C:\Users\ROtero\source\repos\WinNameGenerator\WinNameGenerator\bin\Debug\WinNameGenerator.exe.manifest
+C:\Users\ROtero\source\repos\WinNameGenerator\WinNameGenerator\bin\Debug\WinNameGenerator.application
+C:\Users\ROtero\source\repos\WinNameGenerator\WinNameGenerator\obj\Debug\WinNameGenerator.exe.manifest
+C:\Users\ROtero\source\repos\WinNameGenerator\WinNameGenerator\obj\Debug\WinNameGenerator.application
