@@ -1,0 +1,2 @@
+# WinNameGenerator
+Random name generator
